@@ -1,1 +1,1 @@
-I created a simple blog just to refresh my Ruby on Rails skills
+I created a simple Ruby on Rails blog just to refresh my skills
